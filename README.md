@@ -6,10 +6,7 @@ In this exercise you are asked to analyze temperature data from Kumpula, Helsink
 
 After making your changes to the notebook, you will need to upload it to GitHub.
 
-- **Exercise 5 is due by the start of the next lesson (9:15 am, 7 October 2020)**.
-- Don't forget to check out the [hints for this week's exercise](https://geo-python-site.readthedocs.io/en/latest/lessons/L5/exercise-5.html#exercise-5-hints) if you're having trouble.
-- Scores on this exercise are out of **10 points (Problems 1-3)**. Problem 4 is optional.
-
+-
 ## Before you start
 
 ### Clone the Exercise 5 repository
